@@ -5,12 +5,10 @@
   </head>
   <body style="background-color: beige">
 
-  <div style="top: 30%; position: relative">
-    <form method="get" action="create_story">
-    <input style="left: 45%; position: absolute" type="submit" value="Create Story"></br></br>
-    </form>
+  <div>
+    <a href="http://localhost:8080/create_story">CREATE STORY</a></br></br>
 
-    <input style="left: 45%; position: absolute" type="submit" value="View Story">
+    <a href="http://localhost:8080/list_story">SHOW STORY</a></br></br>
   </div>
 
   </body>
