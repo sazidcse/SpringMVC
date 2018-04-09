@@ -24,7 +24,7 @@ https://github.com/sazidcse/SpringMVC.git
 To install and run this application following tools are needed
 
 * IDE (Intellij preferred or Eclipce)
-* Application server (Tomcat prefered or any other)
+* Application server (Tomcat preferred or any other)
 
 ### Installing
 
